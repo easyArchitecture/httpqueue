@@ -1,9 +1,7 @@
-# httpqueue
-!!!demoåº”è¯¥ç®—æ˜¯æœ‰äº†ï¼ŒåŽé¢çš„è¦ç»§ç»­æ‰©å±•åŠŸèƒ½äº†
-
-é€šè¿‡httpåè®®ä¼ é€æ¶ˆæ¯çš„æ¶ˆæ¯é˜Ÿåˆ—
-æ”¯æŒä»¥ä¸‹æ¶ˆæ¯æ–¹å¼ï¼š
-1ã€1å¯¹1
-2ã€1å¯¹å¤š
-3ã€è®¢é˜…å‘å¸ƒ
-
+1¡¢±ØÐëÍê³É±Èkafka¸ü¸ßµÄÍÌÍÂÁ¿
+2¡¢Í¬Ê±Ö§³Öonetoone£¬direct£¬topic£¬fanoutµÄÏûÏ¢¶ÓÁÐÒµÎñÄ£ÐÍ
+3¡¢±ØÐëÖ§³ÖÊý¾Ý·Ö²¼Ê½ÊÂÎñ
+4¡¢Ö§³Ö³ýtopicÄ£Ê½ÍâµÄ³Ö¾Ã»¯Êý¾Ý
+5¡¢Ö§³Ö·Ö²¼Ê½lb²¿Êð£¬²¢ÇÒ³Ö¾Ã»¯Êý¾ÝÖ§³Ö¸ß¿ÉÓÃ
+6¡¢¾ß±¸Á÷´¦Àí¿É±à³ÌÄÜÁ¦
+7¡¢Ìá¹©¿É±à³ÌapiÒÔ¼°Éú²úÕßÏû·ÑÕßapi
